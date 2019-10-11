@@ -8,7 +8,7 @@ Clone the repository, go to the projec folder then:
 
 ```$ pip install .```
 
-This will compile and install the module in the currently active python environment.
+This will compile and install the `cvMat` module in the currently active python environment.
 
 You may want to specify which python interpreter you want the module to be compiled for. This can be done by editing the `CMakeLists.txt` file and specify the path to the interpreter in the set(`PYTHON_EXECUTABLE` [path]) line.
 
