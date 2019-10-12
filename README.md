@@ -1,7 +1,7 @@
 # Pybind OpenCV Mat wrapper
 ## `cv::Mat` <-> `np.array`
 
-Implementation of pybing wrapper to conver a `numpy.array` into `cv::Mat` and the other way arround (`cv::Mat` to `numpy.array`).
+Very basic implementation of a pybind wrapper to conver a `numpy.array` into `cv::Mat` and the other way arround (`cv::Mat` to `numpy.array`).
 
 ## Build
 Clone the repository, go to the projec folder then:
